@@ -43,6 +43,7 @@ dependencies = [
   "cvss>=3.2",
   "caido-sdk-client>=0.2.0",
   "litellm==1.90.2",
+  "cffi==2.1.0",
 ]
 
 [project.scripts]
